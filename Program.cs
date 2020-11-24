@@ -10,6 +10,7 @@ namespace ExamProgramming
             Console.WriteLine("Hello World!");
             // here's comment created on local
             // comment 24.11.2020
+            // test 2
         }
     }
 }
