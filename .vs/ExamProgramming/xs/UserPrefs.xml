@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B5202FA7-3CEB-4C40-943C-82635AC01E28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Processor.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Staff.cs" />
+      <File FileName="Processor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamProgramming" expanded="True">
+            <Node name="ExamProgramming" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Processor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExamProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
